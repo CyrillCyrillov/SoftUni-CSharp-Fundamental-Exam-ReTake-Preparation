@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\bin\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.exe
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\bin\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.deps.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\bin\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.runtimeconfig.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\bin\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\bin\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.dll
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\bin\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\obj\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\obj\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\obj\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\obj\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\obj\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.dll
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\obj\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.pdb
+C:\Users\Kiril\source\repos\Exam_Preparation_ReTake\Task03_Need_for_Speed_III\obj\Debug\netcoreapp3.1\Task03_Need_for_Speed_III.genruntimeconfig.cache
